@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">OmictinLab1</string>
+    <string name="github_link">https://github.com/TrishaTyne</string>
+    <string name="name">Name</string>
+    <string name="name_hint">Enter your name</string>
+    <string name="email">Email</string>
+    <string name="email_hint">Enter your email</string>
+    <string name="phone">Phone</string>
+    <string name="phone_hint">Enter your phone number</string>
+    <string name="address">Address</string>
+    <string name="address_hint">Enter your address</string>
+    <string name="skills">Skills</string>
+    <string name="skills_hint">Enter your skills</string>
+    <string name="about">About</string>
+    <string name="about_hint">Tell us about yourself</string>
+    <string name="save">Save</string>
+    <string name="empty_about">About section is empty</string>
+</resources>
